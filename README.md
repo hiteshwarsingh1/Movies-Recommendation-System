@@ -1,3 +1,4 @@
+# Movie Recommendation System
 ![Python](https://img.shields.io/badge/Python-3.7-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-Flask-yellow)
 ![WebScrape](https://img.shields.io/badge/WebScrape-BeautifulSoup4-green)
